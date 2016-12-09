@@ -6,6 +6,14 @@ This is my first of five projects in the Udacity [Senior Web Developer Nanodegre
 
 Checkout the demo at: [https://adriancarriger.github.io/udacity-meetup/](https://adriancarriger.github.io/udacity-meetup/)
 
+<a href="https://adriancarriger.github.io/udacity-meetup/">
+  <img alt="home page top" src="https://raw.githubusercontent.com/adriancarriger/udacity-meetup/master/images/example-1.png" width="200px">
+  <img alt="event details with map" src="https://raw.githubusercontent.com/adriancarriger/udacity-meetup/master/images/example-2.png" width="200px">
+  <img alt="sign in form" src="https://raw.githubusercontent.com/adriancarriger/udacity-meetup/master/images/example-3.png" width="200px">
+</a>
+
+[![Example Gif](https://raw.githubusercontent.com/adriancarriger/udacity-meetup/master/images/example.gif)](https://adriancarriger.github.io/udacity-meetup/)
+
 ## Description
 
 This meetup website should help people schedule events, create a guest list and meet the other [requirements](REQUIREMENTS.md) of the course.
