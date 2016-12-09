@@ -16,7 +16,7 @@ Checkout the demo at: [https://adriancarriger.github.io/udacity-meetup/](https:/
 
 ## Description
 
-This meetup website should help people schedule events, create a guest list and meet the other [requirements](REQUIREMENTS.md) of the course.
+A meet up website to help people schedule events, create a guest list, and meet the other [requirements](REQUIREMENTS.md) of the course.
 
 ## Tech Stack
 
